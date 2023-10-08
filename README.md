@@ -47,7 +47,7 @@
 
 
 
-<img alt="end-service.jpg" height="600" src="img%2Fend-service.jpg" width="300"/>
+  <img alt="end-service.jpg" height="300" src="img%2Fend-service.jpg" width="600"/>
 
 
 - **Роли и доступ:** Бот поддерживает роли клиента, сотрудника и администратора с разными правами доступа.
