@@ -39,7 +39,7 @@
 
 
 
-  <img alt="time.jpg" height="300" src="img%2Ftime.jpg" width="400"/>
+  <img alt="time.jpg" height="300" src="img%2Ftime.jpg" width="600"/>
 
 
 
