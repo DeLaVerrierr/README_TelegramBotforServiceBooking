@@ -60,7 +60,7 @@
 - **Автоматические напоминания и оценки услуг:** Бот автоматически напоминает клиентам о возможности оценить оказанную услугу после начала процедуры.
 
 
-<img alt="feedback.jpg" height="300" src="img%2Ffeedback.jpg" width="600"/>
+<img alt="feedback.jpg" height="500" src="img%2Ffeedback.jpg" width="300"/>
 
 
 ## Команды
