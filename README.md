@@ -53,7 +53,7 @@
 - **Роли и доступ:** Бот поддерживает роли клиента, сотрудника и администратора с разными правами доступа.
 
 
-![admin.jpg](img%2Fadmin.jpg),![employee.jpg](img%2Femployee.jpg)
+<img alt="admin.jpg" height="600" src="img%2Fadmin.jpg" width="300"/>,<img alt="employee.jpg" height="600" src="img%2Femployee.jpg" width="300"/>
 
 
 
